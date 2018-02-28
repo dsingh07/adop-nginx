@@ -18,45 +18,6 @@
                         "link": "/gerrit/"
                     },
                     {
-                        "id": "sonar",
-                        "title": "sonar",
-                        "img": "img/sonar.png",
-                        "description": "Static Code Analysis",
-                        "link": "/sonar/"
-                    },
-                    {
-                        "id": "nexus",
-                        "title": "nexus",
-                        "img": "img/nexus.png",
-                        "description": "Software Repository Manager",
-                        "link": "/nexus/"
-                    },
-                    {
-                        "id": "kibana",
-                        "title": "kibana",
-                        "img": "img/kibana.png",
-                        "description": "Kibana Dashboard for Logging (ELK)",
-                        "link": "/app/kibana"
-                    },
-                    {
-                        "id": "selenium",
-                        "title": "selenium",
-                        "img": "img/selenium.png",
-                        "description": "Selenium Grid for Automated Testing",
-                        "link": "",
-                        "linkCreate": {
-                            "host": "selenium",
-                            "endPath": "//grid/console"
-                        }
-                    },
-                    {
-                        "id": "sensu",
-                        "title": "sensu",
-                        "img": "img/sensu.png",
-                        "description": "Monitoring",
-                        "link": "/sensu/"
-                    },
-                    {
                         "id": "ldap-ltb",
                         "title": "ltb",
                         "img": "img/ltb.png",
