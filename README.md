@@ -8,7 +8,7 @@
 
 # What is adop-nginx?
 
-adop-nginx provides Nginx with LDAP support. Nginx is a high performance reverse proxy. This image also has the LDAP authentiction module installed.
+adop-nginx provides Nginx with LDAP support. Nginx is a high performance reverse proxy. This image also has the LDAP authentiction module installed. This image will proxy Jenkins, Gerrit and LDAP.
 
 > [wikipedia.org/wiki/Nginx](https://en.wikipedia.org/wiki/Nginx)
 
